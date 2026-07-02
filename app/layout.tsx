@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "WEBTRILLION",
   description: "Web Agency",
 };
+  
 
 export default function RootLayout({
   children,
