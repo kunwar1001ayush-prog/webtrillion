@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Web Agency",
-  description: "Next-gen web solutions",
+  title: "WEBTRILLION",
+  description: "Web Agency",
 };
 
 export default function RootLayout({
